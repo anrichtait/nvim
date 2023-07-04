@@ -84,13 +84,7 @@ use "norcalli/nvim-colorizer.lua"
 use "dstein64/vim-startuptime"
 use "ThePrimeagen/harpoon"
 use "jose-elias-alvarez/null-ls.nvim"
-
-
-
-
-
-
-
+use 'Exafunction/codeium.vim'
 
   -- Automatically set up your configuration after cloning packer.nvim
   -- Put this at the end after all plugins
